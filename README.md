@@ -2,6 +2,7 @@
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
+![image](https://user-images.githubusercontent.com/50779681/206305361-9777749f-abc0-4e0a-bda9-2388ef8a11aa.png)
 
 # Contributing
 
